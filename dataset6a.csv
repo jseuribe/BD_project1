@@ -1,0 +1,56 @@
+organization1,organization2,distance
+Government of Constellations,Authority of Suns,11
+Government of Constellations,Democratic Unity of Suns,54
+Government of Constellations,Union of Worlds,92
+Government of Constellations,Collective Collective of Stars,17
+Government of Constellations,Legendary Monarchy of Systems,59
+Government of Constellations,Technocracy of Territories,7
+Government of Constellations,Oligarcy of Galaxies,16
+Government of Constellations,Stars' Electorate,1
+Government of Constellations,System's Solidarity,37
+Government of Constellations,Universal Regency of Galaxies,80
+Authority of Suns,Democratic Unity of Suns,34
+Authority of Suns,Union of Worlds,60
+Authority of Suns,Collective Collective of Stars,19
+Authority of Suns,Legendary Monarchy of Systems,47
+Authority of Suns,Technocracy of Territories,30
+Authority of Suns,Oligarcy of Galaxies,33
+Authority of Suns,Stars' Electorate,6
+Authority of Suns,System's Solidarity,86
+Authority of Suns,Universal Regency of Galaxies,44
+Democratic Unity of Suns,Union of Worlds,89
+Democratic Unity of Suns,Collective Collective of Stars,100
+Democratic Unity of Suns,Legendary Monarchy of Systems,13
+Democratic Unity of Suns,Technocracy of Territories,61
+Democratic Unity of Suns,Oligarcy of Galaxies,64
+Democratic Unity of Suns,Stars' Electorate,66
+Democratic Unity of Suns,System's Solidarity,63
+Democratic Unity of Suns,Universal Regency of Galaxies,83
+Union of Worlds,Collective Collective of Stars,27
+Union of Worlds,Legendary Monarchy of Systems,85
+Union of Worlds,Technocracy of Territories,84
+Union of Worlds,Oligarcy of Galaxies,36
+Union of Worlds,Stars' Electorate,91
+Union of Worlds,System's Solidarity,70
+Union of Worlds,Universal Regency of Galaxies,31
+Collective Collective of Stars,Legendary Monarchy of Systems,48
+Collective Collective of Stars,Technocracy of Territories,82
+Collective Collective of Stars,Oligarcy of Galaxies,56
+Collective Collective of Stars,Stars' Electorate,46
+Collective Collective of Stars,System's Solidarity,97
+Collective Collective of Stars,Universal Regency of Galaxies,94
+Legendary Monarchy of Systems,Technocracy of Territories,77
+Legendary Monarchy of Systems,Oligarcy of Galaxies,3
+Legendary Monarchy of Systems,Stars' Electorate,71
+Legendary Monarchy of Systems,System's Solidarity,49
+Legendary Monarchy of Systems,Universal Regency of Galaxies,96
+Technocracy of Territories,Oligarcy of Galaxies,68
+Technocracy of Territories,Stars' Electorate,40
+Technocracy of Territories,System's Solidarity,55
+Technocracy of Territories,Universal Regency of Galaxies,74
+Oligarcy of Galaxies,Stars' Electorate,25
+Oligarcy of Galaxies,System's Solidarity,95
+Oligarcy of Galaxies,Universal Regency of Galaxies,50
+Stars' Electorate,System's Solidarity,58
+Stars' Electorate,Universal Regency of Galaxies,9
+System's Solidarity,Universal Regency of Galaxies,45
